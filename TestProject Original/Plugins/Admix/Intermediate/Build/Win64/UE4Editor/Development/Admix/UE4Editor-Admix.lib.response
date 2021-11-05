@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Admix.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Upwork\TutorialZone\TransactionTesting\TransactionTesting\TestProject\Intermediate\Build\Win64\TestProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\Upwork\TutorialZone\TransactionTesting\TransactionTesting\TestProject\Plugins\Admix\Intermediate\Build\Win64\UE4Editor\Development\Admix\Admix.cpp.obj"
+"F:\Upwork\TutorialZone\TransactionTesting\TransactionTesting\TestProject\Plugins\Admix\Intermediate\Build\Win64\UE4Editor\Development\Admix\Default.rc2.res"
+/OUT:"F:\Upwork\TutorialZone\TransactionTesting\TransactionTesting\TestProject\Plugins\Admix\Intermediate\Build\Win64\UE4Editor\Development\Admix\UE4Editor-Admix.lib"
+/INCLUDE:IMPLEMENT_MODULE_Admix

@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"F:\\Upwork\\TutorialZone\\TransactionTesting\\TransactionTesting\\TestProject\\Source\\TestProject\\TestProject.Build.cs",
+		"F:\\Upwork\\TutorialZone\\TransactionTesting\\TransactionTesting\\TestProject\\Plugins\\Admix\\Source\\Admix\\Admix.Build.cs",
+		"F:\\Upwork\\TutorialZone\\TransactionTesting\\TransactionTesting\\TestProject\\Plugins\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"F:\\Upwork\\TutorialZone\\TransactionTesting\\TransactionTesting\\TestProject\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"F:\\Upwork\\TutorialZone\\TransactionTesting\\TransactionTesting\\TestProject\\Source\\TestProject.Target.cs",
+		"F:\\Upwork\\TutorialZone\\TransactionTesting\\TransactionTesting\\TestProject\\Source\\TestProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

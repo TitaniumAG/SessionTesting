@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "4.25.1",
+	"FriendlyName": "MP Door",
+	"Description": "A replicated swing door that can open and close.",
+	"Category": "Other",
+	"CreatedBy": "Luke Jeffers",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true
+}

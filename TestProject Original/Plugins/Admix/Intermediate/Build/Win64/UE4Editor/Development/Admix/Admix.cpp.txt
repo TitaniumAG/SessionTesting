@@ -1,0 +1,2 @@
+F:\Upwork\TutorialZone\TransactionTesting\TransactionTesting\TestProject\Plugins\Admix\Intermediate\Build\Win64\UE4Editor\Development\Admix\Definitions.Admix.h
+F:\Upwork\TutorialZone\TransactionTesting\TransactionTesting\TestProject\Plugins\Admix\Source\Admix\Public\Admix.h
